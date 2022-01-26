@@ -25,3 +25,7 @@ label {
     display: inline-block;
     width: 150px;
 }
+
+.bg-custom {
+    background: dodgerblue;
+}
